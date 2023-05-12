@@ -1,0 +1,88 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+  background-position: center;
+}
+
+
+a:hover{
+  background-color: lightpink;
+  color:magenta; 
+}
+
+
+
+nav a{
+  text-decoration: none;
+  margin: 20px;
+}
+
+body{
+  text-align: center;
+  color: black;
+  
+}
+
+h1 {  
+  font-family: monospace;
+  color: hotpink; 
+}
+
+a{
+  color: silver;
+  font-family: monospace;
+  font-size: 15px
+}
+
+.container{
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form{
+  width: 600px;
+  height: 55px
+  display: flex;
+}
+
+form input{
+  flex: 1;
+  border: none;
+  outline: none;
+}
+
+form button{
+  background: hotpink;
+  padding: 5px 70x;
+  border: none;
+  outline: none;
+  color: white;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+  
+body{
+  background-color: none;
+  color: pink; 
+}
+
+
+
+a, h1, p{
+  color: darkgray;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+ 
+
+
+
+  
